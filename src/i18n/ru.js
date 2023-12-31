@@ -1,0 +1,25 @@
+const ru = {
+  'Apple': 'Яблоко',
+  '2022': '2022',
+  'Your total stock in this company': 'Ваш общий баланс',
+  'Home':'Домой',
+  'Wallet':'Кошелек',
+  'Analytics':'Аналитика',
+  'Settings':'Настройки',
+  'Sale':'Продажа',
+  '7days':'7дней',
+  'MasterCard':'МастерКард',
+  'Card Holder Name':'Имя держателя карты',
+  'Expired Date':'Срок действия истек',
+  'My Funds':'Мои средства',
+  'See All':'Смотреть все',
+  'Most popular':'популярные',
+  'Recommended' : 'Рекомендуется',
+  'Your number of shares':'Количество ваших акций',
+  'This Month':'В этом месяце',
+  'Last Month':'В прошлом месяце',
+  'Buy three':'Купить три',
+  ' shares':' акции',
+  'Send':'Отправить'
+};
+export default ru;
